@@ -53,16 +53,4 @@ This project is a full-stack file/folder explorer built with MongoDB, Express.js
 - When a folder is expanded, it fetches children from `/api/files?parentId=...`.
 - The backend uses a self-referencing MongoDB schema for files/folders.
 
-## Technical Notes
-- Clean code: modular Vue components, meaningful variable names
-- State management: Vue 3 Composition API (ref, reactive)
-- Styling: standard CSS, responsive layout
-- No unnecessary libraries or files
 
-## Submission
-- All requirements are met as per assignment
-- See code comments for architectural choices
-- (Optional) Record a 2-minute demo video
-
----
-For questions or further customization, contact the developer.
