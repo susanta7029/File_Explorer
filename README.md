@@ -1,3 +1,6 @@
+## Demo Video
+
+[Watch the 2-minute demo on Loom](https://www.loom.com/share/995fecd9806b454781db4d6dd988a7a3)
 
 # Recursive Tree File Explorer (MEVN Stack)
 
